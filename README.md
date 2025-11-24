@@ -58,7 +58,7 @@ public/images/
 Clona el repositorio:
 
 ```bash
-git clone
+git clone https://github.com/ale1417/ProyectoFinal-React-Pourcel.git
 ```
 
 Entra al proyecto:
@@ -161,4 +161,4 @@ service cloud.firestore {
 ## 🌐 Deploy
 
 👉 El enlace del deploy irá aquí (una vez generado):  
-**[]**
+**[https://proyecto-final-react-pourcel.vercel.app/]**
